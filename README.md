@@ -9,8 +9,6 @@ This project is to showcase the use of Machine Learning by creating a AI agent a
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Features](#features)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Installation
 
@@ -34,8 +32,15 @@ To observe the functionality of the project, follow these steps:
 
 Feauters of this project are as follows:
 1. I have used Reinforcement Learning with Deep Q Neural Network for the training of the agent which enables it to autonomously comprehend its environment and objectives without external assistance.
-2. We have used 
-3. I have also incorporated a progress graph illustrating the performance of the agent throughout a gaming session. This graph offers insights into how the agent learns to navigate the game and devise its own strategies.
+2. We have used interactive graphics to showcase the gameplay of the agent.
+   
+   ![Gameplay of the AI in snake game](Screenshots/image-018.png)
+   
+3. I have also incorporated a realtime progress graph illustrating the performance of the agent throughout a gaming session. This graph offers insights into how the agent learns to navigate the game and devise its own strategies.
+
+   ![The graph rendering real time alongside the game](Screenshots/image-019.png)
+
+   ![The screenshot of program working](Screenshots/image-020.png)
 
 ## Authors
 
